@@ -1,3 +1,4 @@
+#Program 2 pangram
 def ispangram(str):
     alphabet = "abcdefghijklmnopqrstuvwxyz"
     for char in alphabet:
