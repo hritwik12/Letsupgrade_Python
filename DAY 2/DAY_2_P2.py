@@ -1,3 +1,4 @@
+#program 1 delete occurence
 n=list(map(int,input().split()))
 d=[]
 for i in n:
